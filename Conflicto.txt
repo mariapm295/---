@@ -1,5 +1,5 @@
 Conflicteando fase 3
-Confilcteando fase 2
+Modifico segunda linea para comenzar un conflicto
 archivo conflicto siendo modificado
 see yah
 
